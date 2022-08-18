@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wahmad\\Desktop\\Az400\\Lab1-Git\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\wahmad\\Desktop\\lab401\\Az400\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\wahmad\\Desktop\\Az400\\Lab1-Git\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\wahmad\\Desktop\\lab401\\Az400\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\wahmad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wahmad\\Desktop\\Az400\\Lab1-Git\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\wahmad\\Desktop\\lab401\\Az400\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wahmad\\AppData\\Roaming\\NuGet\\NuGet.Config",
